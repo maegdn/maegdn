@@ -1,5 +1,5 @@
+  # 👋 Hello there, i'm mae !
 
-# 👋 Hello there, i'm mae !
 <br/>
 
 🚀 Passionate and ever learning french web developer focused on building beautiful and performant stuff. 
@@ -42,7 +42,8 @@
 
 <br/>
 
-## 📌 Projects
+## 📌 Projects 
+
 <br/>
 
 - 💼 [Portfolio Website](#) – A showcase of my web development work  
