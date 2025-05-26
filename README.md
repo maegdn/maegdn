@@ -27,7 +27,7 @@
 <br/>
 
 ### Coding
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,nextjs,tailwind,materialui,express,nodejs,yarn,npm,vercel,redux,mongodb,graphql,git" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,nextjs,tailwind,express,nodejs,yarn,npm,vercel,redux,mongodb,graphql,git" />
 
 ### Design
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,notion" />
