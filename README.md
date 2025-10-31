@@ -10,7 +10,7 @@
 <br/>
 <br/>
 - 💼 **Current role:** working in Education, firefighting, and looking to settle as a developper anytime soon
-- 💻 **Website:** [mguardini.pro](https://mguardini.pro)
+- 💻 **Website:** [mguardini.dev](https://mguardini.dev)
 
 <br/>
 
@@ -63,7 +63,7 @@
 ## 📫 Let's Connect
 <br/>
 
-[🌐 Portfolio](https://mguardini.pro) · [💼 LinkedIn](https://www.linkedin.com/in/maelys-guardini/) · [🧑‍💻 GitHub](https://github.com/maegdn) · 📧 **maelys.guardini@gmail.com**
+[🌐 Portfolio](https://mguardini.dev) · [💼 LinkedIn](https://www.linkedin.com/in/maelys-guardini/) · [🧑‍💻 GitHub](https://github.com/maegdn) · 📧 **maelys.guardini@gmail.com**
 
 <br/>
 
